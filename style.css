@@ -266,11 +266,87 @@ Label {
   background-color: white;
 }
 
+.parentAbout2 {
+  display: block;
+  position: absolute;
+  width: 250px;
+  height: 90px;
+  top: 1650px;
+  right: 20px;
+}
+
+.parentAbout2 .my-identy {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.parentAbout2 .underline-3 {
+  position: absolute;
+  left: 10px;
+  width: 230px;
+  height: 5px;
+  background-color: white;
+}
+
 .aboutMe {
-  width: 600px;
+  width: 950px;
   height: auto;
   position: absolute;
-  border: 5px solid white;
+  top: 1750px;
+  left: 20px;
+}
+
+.deskripsi-about {
+  color: white;
+}
+
+.my-identify {
+  width: 330px;
+  height: 253px;
+  position: absolute;
+  top: 1750px;
+  line-height: 30px;
+  right: 20px;
+}
+
+.my-identify .first-long-name {
+  color: white;
+  text-align: center;
+}
+
+.my-identify .second-long-name {
+  color: white;
+  text-align: center;
+}
+
+.my-identify .nick-name {
+  color: white;
+}
+
+.underline-4 {
+  position: absolute;
+  display: block;
+  background-color: white;
+  width: 330px;
+  height: 5px;
+  top: 120px;
+}
+
+.tempat-lahir {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  top: 140px;
+  left: 60px;
+}
+
+.tempat-tanggal-lahir {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  top: 180px;
+  left: 57px;
 }
 /* CSS Content END */
 
