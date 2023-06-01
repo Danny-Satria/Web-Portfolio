@@ -266,6 +266,12 @@ Label {
   background-color: white;
 }
 
+.aboutMe {
+  width: 600px;
+  height: auto;
+  position: absolute;
+  border: 5px solid white;
+}
 /* CSS Content END */
 
 /* CSS PHOTO */
