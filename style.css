@@ -247,9 +247,23 @@ Label {
 .parentAbout {
   display: block;
   position: absolute;
-  width: 300px;
-  height: 300px;
-  background-color: red;
+  width: 250px;
+  height: 90px;
+  top: 1650px;
+}
+
+.parentAbout .about {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+.parentAbout .underline-2 {
+  position: absolute;
+  left: 10px;
+  width: 230px;
+  height: 5px;
+  background-color: white;
 }
 
 /* CSS Content END */
