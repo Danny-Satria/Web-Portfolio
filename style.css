@@ -272,7 +272,7 @@ Label {
   width: 250px;
   height: 90px;
   top: 1650px;
-  right: 20px;
+  right: 60px;
 }
 
 .parentAbout2 .my-identy {
@@ -312,24 +312,31 @@ Label {
 
 .my-identify .first-long-name {
   color: white;
-  text-align: center;
+  position: absolute;
+  left: 20px;
 }
 
 .my-identify .second-long-name {
   color: white;
-  text-align: center;
+  position: absolute;
+  top: 30px;
+  left: 20px;
 }
 
 .my-identify .nick-name {
   color: white;
+  position: absolute;
+  top: 60px;
+  left: 20px;
 }
 
 .underline-4 {
   position: absolute;
   display: block;
   background-color: white;
-  width: 330px;
+  width: 300px;
   height: 5px;
+  right: 10px;
   top: 120px;
 }
 
